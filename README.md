@@ -14,7 +14,6 @@
 [<img align="left" alt="cjharris.ch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [Instagram]
 [<img align="left" alt="cjharris18 | Instagram" width="22px" src="https://https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />] [GitHub]
 
-<br />
 
 ### Languages and Tools:
 
