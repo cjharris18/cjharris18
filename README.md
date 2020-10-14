@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-![Alt text]("https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" "Twitter")
 
 
 ### Languages and Tools:
