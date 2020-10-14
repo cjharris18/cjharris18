@@ -1,9 +1,9 @@
 
-### Hi there, I'm Chris: (cjharris) 👋
+### Hi there, I'm Chris Harris 👋
 
 ## I'm a Hacker and Developer:
-- 🎓 Cyber Security Student at the University of Warwick.
-- 📜 GCIH Holder.
+- 🎓 BSc Cyber Security Student at the University of Warwick.
+- 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
 
 
@@ -21,9 +21,11 @@
 [<img align="left" alt="cjharris2332 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
 <br />
 <br />
+
 **GitHub**
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
+
 ### Languages and Tools:
 <br />
 **Python**
@@ -39,17 +41,14 @@
 **Learning C**
 <img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
+>>>>>>> main
 
 
 ### Cryptonite:
-Member of the Cryptonite CTF Team:
-
-**CTFTime:**
-https://ctftime.org/team/121904
+Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
 **GitHub**
 [<img align="left" alt="cryptonite | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][cryptonite_git]
-<br />
 
 
 [twitter]: https://www.twitter.com/cjharris2332 "Twitter"
