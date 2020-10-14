@@ -55,6 +55,10 @@
 <img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
 <br />
 
+
+## Hack the Box:
+<img align="left" alt="hackthebox | HTB" width="22px" src="http://www.hackthebox.eu/badge/image/329086" />
+
 ## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
