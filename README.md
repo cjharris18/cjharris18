@@ -24,11 +24,20 @@
 **GitHub**
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
-<br />
 ### Languages and Tools:
 
 **Python**
 <img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
+<br />
+<br />
+
+**Visual Basic**
+<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
+<br />
+<br />
+
+**Learning C**
+<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
 
