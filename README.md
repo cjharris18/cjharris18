@@ -56,14 +56,14 @@
 <br />
 
 ## Hack The Box:
-<img align="left" alt="python | Python" width="22px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />
+<img align="left" alt="python | Python" width="100px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />
 <br />
 
 ## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
 **GitHub**
-[<img align="left" alt="cryptonite | GitHub" width="250px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][cryptonite_git]
+[<img align="left" alt="cryptonite | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][cryptonite_git]
 
 
 [twitter]: https://www.twitter.com/cjharris2332 "Twitter"
