@@ -33,7 +33,6 @@
 ### Cryptonite:
 Member of the Cryptonite CTF Team:
 
-![Cryptonite Logo](/images/cryptonite.png "Cryptonite Logo")
 **CTFTime:**
 https://ctftime.org/team/121904
 
