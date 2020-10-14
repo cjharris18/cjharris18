@@ -9,19 +9,17 @@
 
 ### Connect with me:
 
-
+[Twitter]: https://www.twitter.com/cjharris2332 "Twitter"
+[LinkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
+[Instagram]: https://www.instagram.com/cjharris.ch "Instagram"
+[GitHub]: https://www.github.com/cjharris18 "GitHub"
 
 ### Languages and Tools:
 
+- 🐍 Python
 
 
 ### Cryptonite:
-- 🚩 Member of the Cryptonite CTF Team:
+Member of the Cryptonite CTF Team:
     - CTFTime: https://ctftime.org/team/121904
     - GitHub:  https://github.com/crypt0n1te
-
-
-[Twitter]: https://www.twitter.com/cjharris2332
-[LinkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/
-[Instagram]: https://www.instagram.com/cjharris.ch
-[GitHub]: https://www.github.com/cjharris18
