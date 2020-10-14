@@ -11,13 +11,15 @@
 
 **LinkedIn:**
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
+<br />
 **Twitter:**
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]
+<br />
 **Instagram:**
 [<img align="left" alt="cjharris2332 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
+<br />
 **GitHub:**
 [<img align="left" alt="cjharris18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
-
 <br />
 ### Languages and Tools:
 
