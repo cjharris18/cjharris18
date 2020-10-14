@@ -25,7 +25,9 @@
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
 
-**Email Me:** <christopherharris2332@gmail.com>
+**Email**
+[<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
+<br />
 ### Languages and Tools:
 
 **Python**
@@ -51,4 +53,5 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [instagram]: https://www.instagram.com/cjharris.ch "Instagram"
 [github]: https://www.github.com/cjharris18 "GitHub"
+[email]: <christopherharris2332@gmail.com> "Email"
 [cryptonite_git]: https://github.com/crypt0n1te
