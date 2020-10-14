@@ -21,6 +21,10 @@
 [<img align="left" alt="cjharris2332 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
 <br />
 
+**Hack The Box**
+[<img align="left" alt="cjharris18 | htb" width="22px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][htb]
+<br />
+
 **GitHub**
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
@@ -32,31 +36,27 @@
 ### Languages and Tools:
 
 **Python**
-<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
+<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
 
 **Bash**
-<img align="left" alt="bash | Bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg" />
+<img align="left" alt="bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg" />
 <br />
 
 **C**
-<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
 **Javascript**
-<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
+<img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
 <br />
 
 **HTML**
-<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
+<img align="left" alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
 <br />
 
 **Visual Basic**
-<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
-<br />
-
-## Hack The Box:
-<img align="left" alt="python | Python" width="100px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />
+<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
 <br />
 
 ## Cryptonite:
@@ -70,5 +70,6 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [instagram]: https://www.instagram.com/cjharris.ch "Instagram"
 [github]: https://www.github.com/cjharris18 "GitHub"
+[htb] https://www.hackthebox.eu/home/users/profile/329086 "HTB"
 [email]: mailto:christopherharris2332@gmail.com "Email"
 [cryptonite_git]: https://github.com/crypt0n1te
