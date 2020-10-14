@@ -14,6 +14,8 @@
 [<img align="left" alt="cjharris2332 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="cjharris18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 
+<br />
+<br />
 
 ### Languages and Tools:
 
