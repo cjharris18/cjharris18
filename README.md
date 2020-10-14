@@ -39,10 +39,6 @@
 <img align="left" alt="bash | Bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg" />
 <br />
 
-**Visual Basic**
-<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
-<br />
-
 **C**
 <img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
@@ -53,6 +49,10 @@
 
 **HTML**
 <img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
+<br />
+
+**Visual Basic**
+<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
 <br />
 
 ## Cryptonite:
