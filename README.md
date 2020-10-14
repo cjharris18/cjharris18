@@ -28,7 +28,7 @@
 ### Languages and Tools:
 
 **Python**
-[<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />]
+<img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
 
 
