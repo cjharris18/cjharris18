@@ -3,7 +3,7 @@
 I am a developer with a passion for Cyber Security and i try to let my projects reflect that, below are some more things about me:
 
 - 🎓 Cyber Security Student at the University of Warwick.
-- 📜 GCIH Holder (Expires 2024).
+- 📜 GCIH Holder.
 - 💻 Cyber Discovery Elite 2020 Participant.
 
 
