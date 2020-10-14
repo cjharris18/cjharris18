@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[Twitter.1] Twitter
+[<img align="left" alt="cjharris2332 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
 
 
 ### Languages and Tools:
