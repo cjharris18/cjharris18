@@ -21,14 +21,6 @@
     - CTFTime: https://ctftime.org/team/121904
     - GitHub:  https://github.com/crypt0n1te
 
-### GitHub Stats:
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.cjharris18.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [Twitter]: https://www.twitter.com/cjharris2332
 [LinkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/
