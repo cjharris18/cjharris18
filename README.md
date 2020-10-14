@@ -10,7 +10,7 @@
 ### Connect with me:
 
 **LinkedIn**
-[<img align="right" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
+[<img align="middle" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
 <br />
 **Twitter**
 [<img align="right" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]
