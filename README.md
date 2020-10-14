@@ -45,6 +45,14 @@
 <img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
+**Javascript**
+<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
+<br />
+
+**HTML**
+<img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
+<br />
+
 ## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
