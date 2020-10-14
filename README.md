@@ -57,7 +57,8 @@
 
 
 ## Hack the Box:
-<img align="left" alt="hackthebox | HTB" width="200px" src="http://www.hackthebox.eu/badge/image/329086" />
+<img align="left" alt="hackthebox | HTB" width="600px" src="http://www.hackthebox.eu/badge/image/329086" />
+<br />
 
 ## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
