@@ -26,7 +26,9 @@
 <br />
 
 **Email**
-[<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />] [email]
+[<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
+<br />
+
 ### Languages and Tools:
 
 **Python**
