@@ -25,6 +25,7 @@
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
 
+**Email Me:** <christopherharris2332@gmail.com>
 ### Languages and Tools:
 
 **Python**
