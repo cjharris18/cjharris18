@@ -8,7 +8,7 @@
 
 
 ### Connect with me:
-
+<br />
 **LinkedIn**
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
 <br />
@@ -25,7 +25,7 @@
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
 ### Languages and Tools:
-
+<br />
 **Python**
 <img align="left" alt="python | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
