@@ -39,7 +39,7 @@
 <img align="left" alt="c | c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
-### Cryptonite:
+## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
 **GitHub**
