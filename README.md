@@ -9,7 +9,10 @@
 
 ### Connect with me:
 
+[<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cjharris2332 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cjharris18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 
 
 ### Languages and Tools:
@@ -24,9 +27,7 @@ Member of the Cryptonite CTF Team:
 
 
 
-[Twitter]: https://www.twitter.com/cjharris2332 "Twitter"
-[LinkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
-[Instagram]: https://www.instagram.com/cjharris.ch "Instagram"
-[GitHub]: https://www.github.com/cjharris18 "GitHub"
-
-[1]: https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg  "Twitter"
+[twitter]: https://www.twitter.com/cjharris2332 "Twitter"
+[linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
+[instagram]: https://www.instagram.com/cjharris.ch "Instagram"
+[github]: https://www.github.com/cjharris18 "GitHub"
