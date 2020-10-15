@@ -59,6 +59,10 @@
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
 <br />
 
+**Git**
+<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />
+<br />
+
 ## Cryptonite:
 Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
