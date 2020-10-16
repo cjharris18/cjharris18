@@ -22,7 +22,7 @@
 <br />
 
 **Hack The Box**
-[<img align="left" alt="cjharris18 | htb" width="22px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png" />][htb]
+[<img align="left" alt="cjharris18 | htb" width="22px" src="https://ibb.co/5n9sssD" />][htb]
 <br />
 
 **GitHub**
