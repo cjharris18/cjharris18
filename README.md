@@ -51,6 +51,10 @@
 <img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
 <br />
 
+**CSS**
+<img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg" />
+<br />
+
 **HTML**
 <img align="left" alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
 <br />
