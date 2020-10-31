@@ -79,8 +79,6 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjharris18&count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cjharris)](https://github.com/anuraghazra/github-readme-stats)
-
 [twitter]: https://www.twitter.com/cjharris2332 "Twitter"
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [instagram]: https://www.instagram.com/cjharris.ch "Instagram"
