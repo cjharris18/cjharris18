@@ -35,16 +35,16 @@
 
 ### Languages and Tools:
 
+**C**
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
+<br />
+
 **Python**
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
 
 **Bash**
 <img align="left" alt="bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg" />
-<br />
-
-**C**
-<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
 **Javascript**
