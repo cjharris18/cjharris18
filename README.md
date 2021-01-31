@@ -84,5 +84,5 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [instagram]: https://www.instagram.com/cjharris.ch "Instagram"
 [github]: https://www.github.com/cjharris18 "GitHub"
 [htb]: https://www.hackthebox.eu/home/users/profile/329086 "HTB"
-[email]: mailto:christopherharris2332@gmail.com "Email"
+[email]: mailto:christopherjharris@protonmail.com "Email"
 [cryptonite_git]: https://github.com/crypt0n1te
