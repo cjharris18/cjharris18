@@ -14,7 +14,7 @@
 <br />
 
 **HackerOne**
-[<img align="left" alt="cjharris | hackerone" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/hackerone-logo-png-transparent.png" />][hackerone]
+[<img align="left" alt="cjharris | hackerone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/hackerone.svg" />][h1]
 <br />
 
 **LinkedIn**
@@ -90,4 +90,4 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [htb]: https://www.hackthebox.eu/home/users/profile/329086 "HTB"
 [email]: mailto:christopherjharris@protonmail.com "Email"
 [cryptonite_git]: https://github.com/crypt0n1te
-[hackerone] https://hackerone.com/cjharris
+[h1]: https://hackerone.com/cjharris
