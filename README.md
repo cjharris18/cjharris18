@@ -5,9 +5,17 @@
 - 🎓 BSc Cyber Security Student at the University of Warwick.
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
-
+- 💎 Cryptonite CTF Team Member
 
 ### Connect with me:
+
+**Hack The Box**
+[<img align="left" alt="cjharris18 | htb" width="22px" src="https://i.ibb.co/TmYJcbF/htb.png" />][htb]
+<br />
+
+**HackerOne**
+[<img align="left" alt="cjharris | hackerone" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/hackerone-logo-png-transparent.png" />][hackerone]
+<br />
 
 **LinkedIn**
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
@@ -17,20 +25,16 @@
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]
 <br />
 
+**Email**
+[<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
+<br />
+
 **Instagram**
 [<img align="left" alt="cjharris2332 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />][instagram]
 <br />
 
-**Hack The Box**
-[<img align="left" alt="cjharris18 | htb" width="22px" src="https://i.ibb.co/TmYJcbF/htb.png" />][htb]
-<br />
-
 **GitHub**
 [<img align="left" alt="cjharris18 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
-<br />
-
-**Email**
-[<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
 <br />
 
 ### Languages and Tools:
@@ -86,3 +90,4 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [htb]: https://www.hackthebox.eu/home/users/profile/329086 "HTB"
 [email]: mailto:christopherjharris@protonmail.com "Email"
 [cryptonite_git]: https://github.com/crypt0n1te
+[hackerone] https://hackerone.com/cjharris
