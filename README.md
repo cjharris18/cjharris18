@@ -78,7 +78,7 @@ Member of the [Cryptonite CTF Team](https://ctftime.org/team/121904 "CTFTime"):
 [<img align="left" alt="cryptonite | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][cryptonite_git]
 <br />
 
-[twitter]: https://www.twitter.com/cjharris2332 "Twitter"
+[twitter]: https://www.twitter.com/cjharrisctf "Twitter"
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [instagram]: https://www.instagram.com/cjharris.ch "Instagram"
 [github]: https://www.github.com/cjharris18 "GitHub"
