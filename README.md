@@ -6,7 +6,10 @@
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
 
+### My Blog
+To see blog posts, writeups and more, I reccomend checking out my blog [here](https://cjharris18.github.io).
 ### Connect with me:
+
 **LinkedIn**
 [<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
 <br />
