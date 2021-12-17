@@ -7,7 +7,7 @@
 - 💻 Cyber Discovery Elite 2020 Participant.
 
 ### My Blog
-To see blog posts, writeups and more, I reccomend checking out my blog [here](https://cjharris18.github.io).
+To see blog posts, writeups and more, I reccomend checking out my blog [here](https://cjharris.co.uk).
 ### Connect with me:
 
 **LinkedIn**
