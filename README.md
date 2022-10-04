@@ -2,7 +2,7 @@
 ### Hi there, I'm Chris Harris 👋
 
 ## I'm a Hacker and Developer:
-- 🎓 BSc Cyber Security Student at the University of Warwick.
+- 🎓 Final Year BSc Cyber Security Student at the University of Warwick.
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
 
