@@ -28,10 +28,6 @@ To see blog posts, writeups and more, I reccomend checking out my blog [here](ht
 
 ### Languages and Tools:
 
-**C**
-<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
-<br />
-
 **Python**
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
@@ -44,6 +40,9 @@ To see blog posts, writeups and more, I reccomend checking out my blog [here](ht
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />
 <br />
 
+**C**
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
+<br />
 
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [github]: https://www.github.com/cjharris18 "GitHub"
