@@ -9,6 +9,7 @@
 
 ### My Blog
 To see blog posts, writeups and more, I reccomend checking out my blog [here](https://cjharris.co.uk).
+
 ### Connect with me:
 
 **LinkedIn**
