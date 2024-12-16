@@ -2,19 +2,15 @@
 ### Hi there, I'm Chris Harris 👋
 
 ## I'm a Hacker and Developer:
-- 👨‍💻 BT Group Networks Graduate
+- 👨‍💻 BT Group Networks/Software Engingeering Graduate
 - 🎓 BSc Cyber Security Graduate from the University of Warwick.
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
 
 ### My Blog
-To see blog posts, writeups and more, I reccomend checking out my blog [here](https://cjharris.co.uk).
+I recommend checking out my blog [here](https://cjharris.co.uk) to see blog posts, writeups and more.
 
 ### Connect with me:
-
-**LinkedIn**
-[<img align="left" alt="christopher harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />][linkedin]
-<br />
 
 **Email**
 [<img align="left" alt="cjharris | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
