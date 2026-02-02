@@ -2,7 +2,7 @@
 ### Hi there, I'm Chris Harris 👋
 
 ## I'm a Hacker and Developer:
-- 👨‍💻 BT Group Networks/Software Engingeering Graduate
+- 👨‍💻 BT Group RAN OSS Software Developer
 - 🎓 BSc Cyber Security Graduate from the University of Warwick.
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
