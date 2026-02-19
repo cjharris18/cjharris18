@@ -30,6 +30,10 @@ I recommend checking out my blog [here](https://cjharris.co.uk) to see blog post
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
 
+**Go**
+<img align="left" alt="golang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/go.svg" />
+<br />
+
 **Bash**
 <img align="left" alt="bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg" />
 <br />
