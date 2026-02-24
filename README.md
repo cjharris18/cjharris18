@@ -1,8 +1,8 @@
 
-### Hi there, I'm Chris Harris 👋
+### Hi there, I'm Chris 👋
 
 ## I'm a Hacker and Developer:
-- 👨‍💻 BT Group RAN OSS Software Developer
+- 👨‍💻 BT Group Software Developer.
 - 🎓 BSc Cyber Security Graduate from the University of Warwick.
 - 📜 GCIH Holder (2020).
 - 💻 Cyber Discovery Elite 2020 Participant.
@@ -49,4 +49,4 @@ I recommend checking out my blog [here](https://cjharris.co.uk) to see blog post
 [linkedIn]: https://www.linkedin.com/in/christopher-harris-8921701b5/ "LinkedIn"
 [github]: https://www.github.com/cjharris18 "GitHub"
 [htb]: https://www.hackthebox.eu/home/users/profile/329086 "HTB"
-[email]: mailto:christopherjharris@protonmail.com "Email"
+[email]: mailto:chris@cjharris.co.uk "Email"
